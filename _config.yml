@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.20029656635597348
 name: steady intelligence ... exponential AI
+navigation:
+  - name: What it's like to ride in the Tesla Model 3
+    id: 34e5c222-724b-4f36-8e2a-35250ab50994
+    type: content
 title: Autonomous Cars
 description: The Starting Line.
