@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:59:25.335Z'
+datePublished: '2016-08-03T19:40:56.478Z'
 sourcePath: _posts/2016-04-15-what-its-like-to-ride-in-the-tesla-model-3.md
 inFeed: true
 isBasedOnUrl: 'http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T17:59:24.914Z'
+dateModified: '2016-08-03T19:40:56.376Z'
 title: What it's like to ride in the Tesla Model 3
 app_links: []
 publisher:
