@@ -6,9 +6,9 @@ color:
   saturation: 0.9566745820920914
   rhythmicContrast: 0.8923187940381467
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000002'
+    - '#878989'
+    - '#003264'
+    - '#B8E9F6'
+    - '#50A7D9'
 name: steady intelligence ... exponential AI
